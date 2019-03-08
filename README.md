@@ -3,7 +3,7 @@
 ### Installation
 Install <a href="https://www.tensorflow.org/">Tensorflow (1.10.0)</a>, <a href="https://pymesh.readthedocs.io/en/latest/">PyMesh</a>.
 
-The mesh sampling and mesh laplacian operations are under folder `models/tf_ops`. To build them, simply use `cd models/tf_ops` and `sh make.sh` to compile. You may need to set CUDA path in each subfolder.
+The mesh sampling and mesh laplacian operations are under folder `models/tf_ops`. To build them, simply use `cd models/tf_ops` and `sh compile.sh` to compile. You may need to set CUDA path in each subfolder.
 
 ### Training
 
