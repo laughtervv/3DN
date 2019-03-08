@@ -39,8 +39,8 @@ If you find this work useful, please consider citing:
 
     
 ### Acknowledgemets
-<a href="https://github.com/charlesq34/pointnet">PointNet</a>
-<a href="https://github.com/charlesq34/pointnet-autoencoder">PointNet AutoEncoder</a>
-<a href="https://github.com/fanhqme/PointSetGeneration">Point Set Generation</a>
+- <a href="https://github.com/charlesq34/pointnet">PointNet</a>
+- <a href="https://github.com/charlesq34/pointnet-autoencoder">PointNet AutoEncoder</a>
+- <a href="https://github.com/fanhqme/PointSetGeneration">Point Set Generation</a>
 
 
