@@ -1,4 +1,4 @@
-### 3DN: 3D Deformation Network [<a href="">Arxiv</a>]
+### 3DN: 3D Deformation Network [<a href="https://arxiv.org/abs/1903.03322">Arxiv</a>]
 
 ### Installation
 Install <a href="https://www.tensorflow.org/">Tensorflow (1.10.0)</a>, <a href="https://pymesh.readthedocs.io/en/latest/">PyMesh</a>.
@@ -15,7 +15,7 @@ python train.py
 cd shapenet/2D
 python train_vgg.py
 ```
-Pretrained Model can be found <a href="">here</a>.
+Pretrained Model can be found <a href="https://drive.google.com/drive/folders/1LpZe-8SV5xNuIU1IvATmb-i7YGUHQdbp?usp=sharing">here</a>.
 ### Testing 
 
 ```bash
